@@ -11,7 +11,7 @@ To run the PacMen Exercise on your machine, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/pacmen-exercise.git
+git clone https://github.com/jrparente/pacmen-exercise.git
 ```
 
 2. Open the index.html file in your web browser.
